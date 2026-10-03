@@ -202,6 +202,16 @@
             "MD5": "bd105427cf6d3ef10287abb474419e3f",
             "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/XVsaQXSm/lambdynamiclights-4.12.4%2B26.2.jar"
           }
+        },
+        {
+          "id": "me.shedaniel.cloth:cloth-config-fabric:26.2.155@jar",
+          "name": "Cloth Config API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1135186,
+            "MD5": "776ec6f7bea662823c7acc7aa8b66c68",
+            "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
+          }
         }
       ],
       "seedFiles": [
