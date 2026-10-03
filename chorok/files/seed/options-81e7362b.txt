@@ -1,0 +1,5 @@
+lang:ko_kr
+guiScale:2
+autoJump:false
+renderDistance:8
+simulationDistance:6

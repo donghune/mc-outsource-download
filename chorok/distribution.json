@@ -1,0 +1,215 @@
+{
+  "version": "1.0.0",
+  "rss": "",
+  "servers": [
+    {
+      "id": "chorok-zombie",
+      "name": "초록 좀비 (테스트)",
+      "description": "초록 좀비 학교 탈출 — 개발 테스트 서버",
+      "icon": "",
+      "version": "0.1.0",
+      "address": "nas.tail3849b5.ts.net:25580",
+      "minecraftVersion": "26.2",
+      "javaOptions": {
+        "supported": ">=25.x",
+        "suggestedMajor": 25,
+        "ram": {
+          "recommended": 6144,
+          "minimum": 4096
+        }
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.19.5",
+          "name": "Fabric Loader 0.19.5",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1984980,
+            "MD5": "23bf6a8c5ba938db7d13959a2630357f",
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.19.5/fabric-loader-0.19.5.jar"
+          },
+          "subModules": [
+            {
+              "id": "26.2-fabric-0.19.5",
+              "name": "Fabric 0.19.5 version manifest (26.2)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2778,
+                "MD5": "9fd2090b5fb08028a11ce7378947d528",
+                "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/fabric/26.2-fabric-0.19.5.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.10.1",
+              "name": "org.ow2.asm:asm:9.10.1",
+              "type": "Library",
+              "artifact": {
+                "size": 126151,
+                "MD5": "9cb72080438acf27f2607002e1444a7b",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.10.1",
+              "name": "org.ow2.asm:asm-analysis:9.10.1",
+              "type": "Library",
+              "artifact": {
+                "size": 35140,
+                "MD5": "6dd9011ec87f65e4b2e14e938c4118e4",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.10.1",
+              "name": "org.ow2.asm:asm-commons:9.10.1",
+              "type": "Library",
+              "artifact": {
+                "size": 74840,
+                "MD5": "8eee0b1bdd046baf472eb83dd5e6bb44",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.10.1",
+              "name": "org.ow2.asm:asm-tree:9.10.1",
+              "type": "Library",
+              "artifact": {
+                "size": 51958,
+                "MD5": "62541e1dc62331408ef31317555bf4fa",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.10.1",
+              "name": "org.ow2.asm:asm-util:9.10.1",
+              "type": "Library",
+              "artifact": {
+                "size": 95628,
+                "MD5": "d0892ecb209867805e7d2418e5dc6c42",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.4+mixin.0.8.7",
+              "name": "net.fabricmc:sponge-mixin:0.17.4+mixin.0.8.7",
+              "type": "Library",
+              "artifact": {
+                "size": 1539080,
+                "MD5": "9e33b145b2a46fbc70daf532e3705066",
+                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "kr.donghune:chorok_zombie:0.1.0-SNAPSHOT@jar",
+          "name": "Chorok Zombie",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1052607,
+            "MD5": "cab4a5bff375d6227b20d3a1ef6021fd",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/mods/chorok_zombie-0.1.0-SNAPSHOT-cab4a5bf.jar"
+          }
+        },
+        {
+          "id": "net.fabricmc.fabric-api:fabric-api:0.161.0+26.2@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2566123,
+            "MD5": "e3f5660aa6ae0bdc4adc5a0a613d049d",
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/ewUK83HI/fabric-api-0.161.0%2B26.2.jar"
+          }
+        },
+        {
+          "id": "net.fabricmc:fabric-language-kotlin:1.14.1+kotlin.2.4.20@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8142858,
+            "MD5": "dd78dcb947b56090b41f943a7cc45da8",
+            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar"
+          }
+        },
+        {
+          "id": "software.bernie.geckolib:geckolib-fabric:5.5.5@jar",
+          "name": "GeckoLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1185836,
+            "MD5": "d94e346c96833b09b0c1c933b88b63e8",
+            "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/7gaQHok7/geckolib-fabric-26.2-5.5.5.jar"
+          }
+        },
+        {
+          "id": "com.tacz:tacz-refabricated:0.8.3-beta2+fabric26.2@jar",
+          "name": "TaCZ Refabricated (Unofficial Port)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 57474470,
+            "MD5": "eb4619cf2def10d57d9b7938251034fa",
+            "url": "https://cdn.modrinth.com/data/lLryDmIs/versions/JGxXP0Ol/TACZ-Refabricated-26.2-0.8.3-beta2%2Bfabric26.2.jar"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport:forgeconfigapiport-fabric:26.2.1@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 609550,
+            "MD5": "bb4e3132796ab0e4bee044e8f11f6941",
+            "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/rSd3GiG8/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
+          }
+        },
+        {
+          "id": "com.zigythebird:playeranimationlib:1.2.6+mc.26.2@jar",
+          "name": "Player Animation Library",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 419757,
+            "MD5": "a993c98b0c19c7278fde4020210ec424",
+            "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/Hq1CwB9w/PlayerAnimationLibMerged-1.2.6%2Bmc.26.2.jar"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice-fabric:26.2-2.1.17@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12247451,
+            "MD5": "91dead85f43a5bf70858bd65ea93e7d2",
+            "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/lmQvyHuY/plasmovoice-fabric-26.2-2.1.17.jar"
+          }
+        },
+        {
+          "id": "net.caffeinemc:sodium-fabric:0.9.2+mc26.2@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1885572,
+            "MD5": "fa97af208c24e320899c00cd0cff698a",
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar"
+          }
+        },
+        {
+          "id": "dev.lambdaurora:lambdynamiclights:4.12.4+26.2@jar",
+          "name": "LambDynamicLights",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1344429,
+            "MD5": "bd105427cf6d3ef10287abb474419e3f",
+            "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/XVsaQXSm/lambdynamiclights-4.12.4%2B26.2.jar"
+          }
+        }
+      ],
+      "seedFiles": [
+        {
+          "path": "options.txt",
+          "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/seed/options-81e7362b.txt"
+        }
+      ]
+    }
+  ]
+}
