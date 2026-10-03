@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: https://github.com/donghune/mc-outsource-download/releases/download/chorok-v0.1.0/chorok-launcher-setup-0.1.0.exe
+    sha512: KhPNJqEfOaAQsXeTjq4G8Mp8DhIXHqx2LSJ3mcjug+vIG92qBTOKrNR182a5e+rAW+pSq+uRHoIlg/B+64e5Iw==
+    size: 98129898
+path: https://github.com/donghune/mc-outsource-download/releases/download/chorok-v0.1.0/chorok-launcher-setup-0.1.0.exe
+sha512: KhPNJqEfOaAQsXeTjq4G8Mp8DhIXHqx2LSJ3mcjug+vIG92qBTOKrNR182a5e+rAW+pSq+uRHoIlg/B+64e5Iw==
+releaseDate: '2026-10-03T02:55:46.449Z'
