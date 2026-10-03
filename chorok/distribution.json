@@ -8,7 +8,7 @@
       "description": "초록 좀비 학교 탈출 — 개발 테스트 서버",
       "icon": "",
       "version": "0.1.0",
-      "address": "nas.tail3849b5.ts.net:25580",
+      "address": "211.209.109.136:25580",
       "minecraftVersion": "26.2",
       "javaOptions": {
         "supported": ">=25.x",
