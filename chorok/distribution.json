@@ -194,6 +194,16 @@
           }
         },
         {
+          "id": "net.irisshaders:iris-fabric:1.11.4+mc26.2@jar",
+          "name": "Iris Shaders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2821616,
+            "MD5": "267fa2e0f6994162f8dbde33d54dc2ce",
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/gxZWWnKH/iris-fabric-1.11.4%2Bmc26.2.jar"
+          }
+        },
+        {
           "id": "dev.lambdaurora:lambdynamiclights:4.12.4+26.2@jar",
           "name": "LambDynamicLights",
           "type": "FabricMod",
@@ -212,12 +222,49 @@
             "MD5": "776ec6f7bea662823c7acc7aa8b66c68",
             "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
           }
+        },
+        {
+          "id": "shaderpacks/LethalShaders.zip",
+          "name": "Lethal Shaders",
+          "type": "File",
+          "artifact": {
+            "size": 29450,
+            "MD5": "952d4df4218f91b9ced45527b85f2953",
+            "url": "https://cdn.modrinth.com/data/kih5VmNo/versions/IkDUL8uy/LethalShaders.zip",
+            "path": "shaderpacks/LethalShaders.zip"
+          }
+        },
+        {
+          "id": "shaderpacks/DERCODE [2.2].zip",
+          "name": "DERCODE",
+          "type": "File",
+          "artifact": {
+            "size": 23141260,
+            "MD5": "fc394a51e106d305c97eb078e938f786",
+            "url": "https://cdn.modrinth.com/data/2vBMeaEW/versions/foQdIe7M/DERCODE%20%5B2.2%5D.zip",
+            "path": "shaderpacks/DERCODE [2.2].zip"
+          }
+        },
+        {
+          "id": "shaderpacks/Cursed Fog - V1.0.10.zip",
+          "name": "Cursed Fog",
+          "type": "File",
+          "artifact": {
+            "size": 74846,
+            "MD5": "c43ad71eaaaf81db92582db4f9050c01",
+            "url": "https://cdn.modrinth.com/data/sAZ9WsJP/versions/9yVXZsfs/Cursed%20Fog%20-%20V1.0.10.zip",
+            "path": "shaderpacks/Cursed Fog - V1.0.10.zip"
+          }
         }
       ],
       "seedFiles": [
         {
           "path": "options.txt",
           "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/seed/options-81e7362b.txt"
+        },
+        {
+          "path": "shaderpacks/DERCODE [2.2].zip.txt",
+          "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/seed/DERCODE%20%5B2.2%5D.zip-39450f19.txt"
         }
       ]
     }
