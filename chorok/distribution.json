@@ -108,9 +108,9 @@
           "name": "Chorok Zombie",
           "type": "FabricMod",
           "artifact": {
-            "size": 9870455,
-            "MD5": "343778c7b0ca74ba7ad279076cf418dd",
-            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/mods/chorok_zombie-0.1.0-SNAPSHOT-343778c7.jar"
+            "size": 9893603,
+            "MD5": "6ffe1d65c1afff46e669fa866ed65827",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/mods/chorok_zombie-0.1.0-SNAPSHOT-6ffe1d65.jar"
           }
         },
         {
@@ -224,28 +224,6 @@
           }
         },
         {
-          "id": "shaderpacks/LethalShaders.zip",
-          "name": "Lethal Shaders",
-          "type": "File",
-          "artifact": {
-            "size": 29450,
-            "MD5": "952d4df4218f91b9ced45527b85f2953",
-            "url": "https://cdn.modrinth.com/data/kih5VmNo/versions/IkDUL8uy/LethalShaders.zip",
-            "path": "shaderpacks/LethalShaders.zip"
-          }
-        },
-        {
-          "id": "shaderpacks/DERCODE [2.2].zip",
-          "name": "DERCODE",
-          "type": "File",
-          "artifact": {
-            "size": 23141260,
-            "MD5": "fc394a51e106d305c97eb078e938f786",
-            "url": "https://cdn.modrinth.com/data/2vBMeaEW/versions/foQdIe7M/DERCODE%20%5B2.2%5D.zip",
-            "path": "shaderpacks/DERCODE [2.2].zip"
-          }
-        },
-        {
           "id": "shaderpacks/Cursed Fog - V1.0.10.zip",
           "name": "Cursed Fog",
           "type": "File",
@@ -255,20 +233,34 @@
             "url": "https://cdn.modrinth.com/data/sAZ9WsJP/versions/9yVXZsfs/Cursed%20Fog%20-%20V1.0.10.zip",
             "path": "shaderpacks/Cursed Fog - V1.0.10.zip"
           }
+        },
+        {
+          "id": "shaderpacks/Cursed Fog - V1.0.10.zip.txt",
+          "name": "Cursed Fog 설정",
+          "type": "File",
+          "artifact": {
+            "size": 59,
+            "MD5": "c0abbe252634bce4ee1a263e41107b11",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/Cursed%20Fog%20-%20V1.0.10.zip-c0abbe25.txt",
+            "path": "shaderpacks/Cursed Fog - V1.0.10.zip.txt"
+          }
+        },
+        {
+          "id": "config/iris.properties",
+          "name": "Iris 설정 (Cursed Fog 켜기)",
+          "type": "File",
+          "artifact": {
+            "size": 55,
+            "MD5": "f93efce980ffe13e97edc61bd80560b4",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/iris-f93efce9.properties",
+            "path": "config/iris.properties"
+          }
         }
       ],
       "seedFiles": [
         {
           "path": "options.txt",
           "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/seed/options-81e7362b.txt"
-        },
-        {
-          "path": "shaderpacks/DERCODE [2.2].zip.txt",
-          "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/seed/DERCODE%20%5B2.2%5D.zip-39450f19.txt"
-        },
-        {
-          "path": "config/iris.properties",
-          "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/seed/iris-21051dec.properties"
         }
       ]
     }
