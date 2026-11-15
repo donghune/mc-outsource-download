@@ -1,0 +1,5 @@
+#Sun Nov 15 15:40:47 KST 2026
+BRIGHTNESS=-0.05
+EXPOSURE=0.00
+FOG_DISTANCE=1
+degree_night_darkness=0.10

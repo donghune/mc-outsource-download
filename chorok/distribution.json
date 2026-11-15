@@ -108,9 +108,9 @@
           "name": "Chorok Zombie",
           "type": "FabricMod",
           "artifact": {
-            "size": 9927092,
-            "MD5": "7c8ed2850b6bb4204713644d1b12411b",
-            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/mods/chorok_zombie-0.1.0-SNAPSHOT-7c8ed285.jar"
+            "size": 9934390,
+            "MD5": "f5d0a9075fc55f064c89a5193626b59a",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/mods/chorok_zombie-0.1.0-SNAPSHOT-f5d0a907.jar"
           }
         },
         {
@@ -224,25 +224,25 @@
           }
         },
         {
-          "id": "shaderpacks/Cursed Fog - V1.0.10.zip",
-          "name": "Cursed Fog",
+          "id": "shaderpacks/Cursed Fog - V1.0.10 (chorok).zip",
+          "name": "Cursed Fog (초록 손전등 추가, CC BY 4.0 LoLip_p)",
           "type": "File",
           "artifact": {
-            "size": 74846,
-            "MD5": "c43ad71eaaaf81db92582db4f9050c01",
-            "url": "https://cdn.modrinth.com/data/sAZ9WsJP/versions/9yVXZsfs/Cursed%20Fog%20-%20V1.0.10.zip",
-            "path": "shaderpacks/Cursed Fog - V1.0.10.zip"
+            "size": 69865,
+            "MD5": "63ab42c6fc307f91a7b8dc4251f2d0c2",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/Cursed%20Fog%20-%20V1.0.10%20(chorok)-63ab42c6.zip",
+            "path": "shaderpacks/Cursed Fog - V1.0.10 (chorok).zip"
           }
         },
         {
-          "id": "shaderpacks/Cursed Fog - V1.0.10.zip.txt",
+          "id": "shaderpacks/Cursed Fog - V1.0.10 (chorok).zip.txt",
           "name": "Cursed Fog 설정",
           "type": "File",
           "artifact": {
-            "size": 59,
-            "MD5": "c0abbe252634bce4ee1a263e41107b11",
-            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/Cursed%20Fog%20-%20V1.0.10.zip-c0abbe25.txt",
-            "path": "shaderpacks/Cursed Fog - V1.0.10.zip.txt"
+            "size": 103,
+            "MD5": "42a416ef586ca76022e8ab3efe99d60b",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/Cursed%20Fog%20-%20V1.0.10%20(chorok).zip-42a416ef.txt",
+            "path": "shaderpacks/Cursed Fog - V1.0.10 (chorok).zip.txt"
           }
         },
         {
@@ -250,9 +250,9 @@
           "name": "Iris 설정 (Cursed Fog 켜기)",
           "type": "File",
           "artifact": {
-            "size": 55,
-            "MD5": "f93efce980ffe13e97edc61bd80560b4",
-            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/iris-f93efce9.properties",
+            "size": 64,
+            "MD5": "ba404541266107377a25e6f74a9af8d6",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/iris-ba404541.properties",
             "path": "config/iris.properties"
           }
         }
