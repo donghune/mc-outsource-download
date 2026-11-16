@@ -108,9 +108,9 @@
           "name": "Chorok Zombie",
           "type": "FabricMod",
           "artifact": {
-            "size": 10191599,
-            "MD5": "66edac2e0804dcd69e808c73300152b0",
-            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/mods/chorok_zombie-0.1.0-SNAPSHOT-66edac2e.jar"
+            "size": 10231569,
+            "MD5": "fbcad88e2aa169ca1016c2a709776a40",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/mods/chorok_zombie-0.1.0-SNAPSHOT-fbcad88e.jar"
           }
         },
         {
@@ -228,9 +228,9 @@
           "name": "Cursed Fog (초록 손전등 추가, CC BY 4.0 LoLip_p)",
           "type": "File",
           "artifact": {
-            "size": 69865,
-            "MD5": "63ab42c6fc307f91a7b8dc4251f2d0c2",
-            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/Cursed%20Fog%20-%20V1.0.10%20(chorok)-63ab42c6.zip",
+            "size": 70182,
+            "MD5": "22ffa8ace7e86779c4febb19ba894ac8",
+            "url": "https://raw.githubusercontent.com/donghune/mc-outsource-download/main/chorok/files/Cursed%20Fog%20-%20V1.0.10%20(chorok)-22ffa8ac.zip",
             "path": "shaderpacks/Cursed Fog - V1.0.10 (chorok).zip"
           }
         },
